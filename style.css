@@ -1,0 +1,70 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+h1{
+    text-align: center;
+    margin-left: 80px;
+  margin-top: 1px;
+    
+}
+.ups{
+    margin-top: 10px;
+}
+
+.footer{
+    display:flex ;
+    justify-content: flex-end;
+}
+
+.principal{
+    border:solid;
+    margin-top: 20px;
+
+}
+.principal:hover img{
+    transform:scale(1.1)
+}
+
+.school:hover img{
+    transform: scale(1.1);
+}
+
+.header {
+    background-color:greenyellow;
+    
+    }
+
+
+
+.school{
+    border: solid;
+    margin-top: 20px;
+}
+
+a:link{
+    color:blue;
+}
+
+a:visited{
+    color:blue;
+}
+
+.white{
+    text-align: right;
+}
+
+.class{
+    margin-left:90px;
+}
+
+body{
+    background-color:#01917283;
+}
+
+.link{
+    margin-top: 20px;
+}
